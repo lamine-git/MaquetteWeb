@@ -1,0 +1,11 @@
+.conteneur {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 400px;
+    height: 300px;
+    /*padding: 30px 20px;*/ /* augmente la surface en creant une marge interne de 30 et 20 px*/
+    background: lightgray;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+  }

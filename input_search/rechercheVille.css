@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Rancho&display=swap');
+body
+{
+    font-family: 'Raleway';
+}
+#logoloc
+{
+    width: 30px;
+    height: 36px;
+    background-color: #F2F2F2;
+
+    border-radius: 10px 0px 0px 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#inputsearch
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#inputsearch input
+{
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #F2F2F2;
+    border-bottom: 1px solid #F2F2F2;
+    height: 36px;
+    font-family: 'Raleway';
+
+}
+
+#inputsearch button
+{
+    border: none;
+    height: 36px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #0065FC;
+    font-family: 'Raleway';
+    color: #fff;
+}
+
+#groupesearch
+{
+    display: flex;
+    flex-direction: row;
+
+}

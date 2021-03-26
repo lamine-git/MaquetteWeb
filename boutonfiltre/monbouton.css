@@ -1,0 +1,42 @@
+
+.nomlogo
+{
+    margin-left: 5px;
+}
+.logo
+{
+    width: 36px;
+    height: 36px;
+    border-radius: 18px;
+    background-color: #DEEBFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0px;
+    color: #0065FC;
+}
+.groupe
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 0px;
+    margin-left: -18px;
+}
+
+.bouton
+{
+    
+    border: 1px solid #F2F2F2;
+    width: 110px;
+    height: 36px;
+    padding: 0;
+    border-radius: 0px 18px 18px 0px;
+    display: block;
+    cursor: pointer;
+    border-left: none;
+    
+    /* ------------*/
+    margin-left: 50px;
+
+}
